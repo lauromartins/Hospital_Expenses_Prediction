@@ -1,1 +1,3 @@
 # Hospital_Expenses_Prediction
+
+Este projeto é parte integrante do curso Big Data Analytics com R e Microsoft Azure da Formação Cientista de Dados. O objetivo é usar criar um modelo de predição usando regressão linear para predizer as despesas hospitalares. Para isso, são usados os dados de pacientes para estimar as despesas médias de assistência médica. Tais estimativas podem ser utilizadas para criar tabelas que estabelecem os preços dos prêmios anuais dos maiores ou menores, dependendo dos custos de tratamento previstos. Link para acesso ao dados públicos: http://datascienceacademy.com.br/blog/aluno/RFundamentos/Datasets/ML/despesas.csv
